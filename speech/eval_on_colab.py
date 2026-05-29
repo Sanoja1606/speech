@@ -1,7 +1,6 @@
 """
 =============================================================================
 Google Colab Evaluation Script — DSACIS + ATR + LibriSpeech Evaluation
-(FINAL STABLE CLEAN GENERATION VERSION)
 =============================================================================
 
 Features:
@@ -10,9 +9,7 @@ Features:
 - Dynamic compression evaluation
 - Stable readable Phi-3 generation
 - Simulated speech-token routing
-- Proper separation of:
-    - routing prompt
-    - generation prompt
+
 =============================================================================
 """
 
