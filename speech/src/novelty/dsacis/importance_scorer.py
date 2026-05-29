@@ -2,7 +2,7 @@
 =============================================================================
 DSACIS — Dialogue-State Aware Conversational Importance Scoring
 =============================================================================
-NLP NOVELTY MODULE  (v2 — fully corrected)
+NLP NOVELTY MODULE
 
   A) Real sentence-transformer encoder (all-MiniLM-L6-v2) replaces char hashing
   B) dialogue_act_loss and congruence_contrastive_loss are fully wired — both
